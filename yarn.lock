@@ -3006,6 +3006,7 @@ __metadata:
     prettier: 2.8.8
     react: 18.2.0
     react-native: 0.74.4
+    react-native-turbo-image: ^1.9.0
     react-test-renderer: 18.2.0
     typescript: 5.0.4
   languageName: unknown
@@ -7917,6 +7918,16 @@ __metadata:
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
   checksum: 9d6d111d8990dc98bc5402c1266a808b0459b5d54830bbea24c12d908b536df7883f268a7868cfaedde3dd9d4e0d574db456f84d2e6df9c4526f99bb4b5344d8
+  languageName: node
+  linkType: hard
+
+"react-native-turbo-image@npm:^1.9.0":
+  version: 1.9.0
+  resolution: "react-native-turbo-image@npm:1.9.0"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 7bbc6014dc7b3fe4512862bdecec740b818b6939464686e1798d8e2b8d109319bde23b40ec54b41787969a09a37ec3a849bae9956bb2e5ef86077252bb1cd1eb
   languageName: node
   linkType: hard
 
